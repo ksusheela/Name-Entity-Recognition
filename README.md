@@ -1,6 +1,4 @@
 # Name-Entity-Recognition
-# Name-Entity-Recognition
-
 
 ## Workflows
 
@@ -10,12 +8,6 @@
  - components
  - pipeline
  - app.py
-
-
-
-## Live matarials docs
-
-[link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
 
 
 ## Git commands
@@ -32,7 +24,7 @@ git push origin main
 ## AWS GCP Configuration
 
 ```bash
-#Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
+# Gcloud cli download link: https://cloud.google.com/sdk/docs/install#windows
 
 gcloud init
 ```
