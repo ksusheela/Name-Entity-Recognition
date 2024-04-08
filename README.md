@@ -47,3 +47,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+# C:\Program Files (x86)\Google\Cloud SDK
